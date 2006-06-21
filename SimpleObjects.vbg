@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=simpGraphObg.vbp
+Project=ControlSimplgob.vbp
+StartupProject=..\Времменняк\Project111.vbp
